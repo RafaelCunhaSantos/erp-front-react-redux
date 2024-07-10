@@ -38,10 +38,11 @@ To install and test the project locally:
 
 ```bash
 git clone https://github.com/your-username/repository-name.git
+```
 cd repository-name
 npm install
 npm start
-```
+
 
 
 ### Versão em Português
