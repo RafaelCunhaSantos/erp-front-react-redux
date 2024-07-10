@@ -39,12 +39,16 @@ To install and test the project locally:
 ```bash
 git clone https://github.com/your-username/repository-name.git
 ```
+
+```bash
 cd repository-name
+```
+```bash
 npm install
+```
+```bash
 npm start
-
-
-
+```
 ### Versão em Português
 
 ```markdown
