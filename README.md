@@ -37,11 +37,11 @@ Contributions are welcome! To contribute to the development of this project:
 To install and test the project locally:
 
 ```bash
-git clone https://github.com/your-username/repository-name.git
+git https://github.com/RafaelCunhaSantos/erp-front-react-redux.git
 ```
 
 ```bash
-cd repository-name
+cd erp-front-react-redux
 ```
 ```bash
 npm install
